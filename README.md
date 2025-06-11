@@ -7,7 +7,7 @@ Repos grouping all my learning resources
         - Key take aways:
             - 1
             - 2
-            -3 
+            - 3 
         - Overall rating and comment:
             - Comment:
             - Rating
