@@ -10,4 +10,4 @@ Repos grouping all my learning resources
         - 3 
     - Overall rating and comment:
         - Comment:
-        - Rating
+        - Rating:
